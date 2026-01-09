@@ -9,7 +9,18 @@
 运行:
 - cd tasks/task1
 - cargo run
+- 运行结果图
 ![运行task1](pic/1.3.png)
 
 ---
 
+## Task2
+### 本关卡代码路径 tasks/task2
+### 运行结果截图
+运行:
+- cd tasks/task2
+- cargo run -- 0x324(需要查询的地址)
+- 运行结果图
+![运行task2](pic/2.1.png)
+
+---
