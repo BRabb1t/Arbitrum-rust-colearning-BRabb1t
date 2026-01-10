@@ -24,3 +24,14 @@
 ![运行task2](pic/2.1.png)
 
 ---
+
+## Task3
+### 本关卡代码路径 tasks/task3
+### 运行结果截图
+运行:
+- cd tasks/task3
+- cargo run
+- 运行结果图
+![运行task3](pic/3.1.png)
+
+---
