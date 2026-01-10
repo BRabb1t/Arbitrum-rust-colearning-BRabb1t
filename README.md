@@ -35,3 +35,16 @@
 ![运行task3](pic/3.1.png)
 
 ---
+
+## Task4
+### 本关卡代码路径 tasks/task4
+### 运行结果截图
+运行:
+- cd tasks/task4
+- cargo run
+- 运行结果图
+![运行task4](pic/4.2.png)
+- 区块浏览器查询记录
+![查询记录](pic/4.1.png)
+
+---
